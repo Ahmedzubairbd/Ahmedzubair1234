@@ -97,7 +97,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedzubairbd&theme=react" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzubairbd&layout=compact&theme=react&hide=html" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzubairbd&theme=react&hide=html" alt="Top languages" />
 </p>
 
 - **[Medical Project]([https://github.com/Ahmedzubairbd/Tempo-medical](https://github.com/Ahmedzubairbd/Tempo-medical))**  
